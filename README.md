@@ -203,30 +203,24 @@ Operations & Asset Management Platform
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<picture>
+<img src="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg"/>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg">
-
-<img alt="github contribution snake animation"
-src="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
+</p>
 ---
 
 # 📄 Resume
 
-📥 **View my Resume**
+<p align="center">
 
-[https://drive.google.com/file/d/1JSWEmb2j9eS8h2q4S0PBGGpoasqypMIV/view?usp=drive_link]
+<a href="https://drive.google.com/file/d/1JSWEmb2j9eS8h2q4S0PBGGpoasqypMIV/view?usp=sharing">
 
+<img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+
+</a>
+
+</p>
 ---
 
 # 🌐 Portfolio
