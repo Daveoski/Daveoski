@@ -168,19 +168,6 @@ Integrated Digital Logistics System
 
 Operations & Asset Management Platform
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daveoski&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daveoski&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -226,13 +213,13 @@ Operations & Asset Management Platform
 
 📥 **View my Resume**
 
-Replace with your CV link.
+[https://drive.google.com/file/d/1JSWEmb2j9eS8h2q4S0PBGGpoasqypMIV/view?usp=drive_link]
 
 ---
 
 # 🌐 Portfolio
 
-Coming Soon...
+https://orjionuchieportfolio.netlify.app/
 
 ---
 
