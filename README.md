@@ -1,45 +1,251 @@
-<h1 align="center">Hi 👋, I'm Orjionuchie Okechukwu David</h1>
-<h3 align="center">Full-Stack Software Developer | Biochemistry Graduate | Cloud Computing & Cybersecurity Enthusiast | Lifelong Learner</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveoski&label=Profile%20views&color=0e75b6&style=flat" alt="daveoski" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,100:06b6d4&text=Orjionuchie%20Okechukwu%20David&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daveoski" alt="daveoski" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Learner;Biochemistry+Graduate;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Cloud Computing, Cybersecurity, and Full-Stack Development while building practical projects with Azure, Node.js, Express.js, SQL, and Git.](https://github.com/Daveoski/Daveoskibooknook5)
+<p align="center">
 
-- 🌱 I’m currently learning **Full-Stack Software Development, Cloud Computing (Microsoft Azure), Cybersecurity, REST API development, and modern software engineering practices.**
+<a href="https://github.com/Daveoski">
+<img src="https://img.shields.io/github/followers/Daveoski?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-- 👯 I’m looking to collaborate on [impactful technology projects, open-source contributions, backend applications, cloud solutions, and cybersecurity initiatives.](https://github.com/Daveoski/OIL-PRO)
+<img src="https://komarev.com/ghpvc/?username=Daveoski&style=for-the-badge&color=2563eb"/>
 
-- 🤝 I’m looking for help with **advanced full-stack development, system design, cloud deployment, DevOps, and open-source contributions.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Daveoski](https://github.com/Daveoski)
-
-- 📝 I regularly write articles on [I plan to write articles on Full-Stack Development, Cloud Computing, Cybersecurity, and emerging technologies as I continue my learning journey.](I plan to write articles on Full-Stack Development, Cloud Computing, Cybersecurity, and emerging technologies as I continue my learning journey.)
-
-- 💬 Ask me about **Biochemistry, Full-Stack Development, Cybersecurity, Cloud Computing, Project Management, and Research.**
-
-- 📫 How to reach me **okechukwuorjionuchie@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JSWEmb2j9eS8h2q4S0PBGGpoasqypMIV/view?usp=sharing](https://drive.google.com/file/d/1JSWEmb2j9eS8h2q4S0PBGGpoasqypMIV/view?usp=sharing)
-
-- ⚡ Fun fact **I transitioned from Biochemistry to Full-Stack Software Development because I believe technology can solve some of the world's biggest challenges.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@orjionuchie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@orjionuchie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/okechukwu orjionuchie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okechukwu orjionuchie" height="30" width="40" /></a>
-<a href="https://fb.com/david.orji.56211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david.orji.56211" height="30" width="40" /></a>
-<a href="https://instagram.com/daveo_ski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daveo_ski" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@okechukwuorjionuchie3960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@okechukwuorjionuchie3960" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveoski&show_icons=true&locale=en&layout=compact" alt="daveoski" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveoski&show_icons=true&locale=en" alt="daveoski" /></p>
+# 👋 Hello, I'm Orjionuchie Okechukwu David
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveoski&" alt="daveoski" /></p>
+I'm a **Biochemistry graduate** transitioning into **Full-Stack Software Development**, passionate about building technology that solves real-world problems.
 
+I enjoy learning modern technologies, developing scalable applications, exploring cloud platforms, and continuously improving my software engineering skills.
+
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently building Full-Stack Web Applications
+- 🌱 Learning React, Node.js, Express.js, SQL, Azure & DevOps
+- ☁️ Exploring Microsoft Azure Cloud
+- 🔐 Expanding my Cybersecurity knowledge
+- 🤝 Looking to collaborate on Open Source projects
+- 💬 Ask me about JavaScript, Node.js, APIs, Git, Azure and Biochemistry
+- ⚡ Fun fact: My journey started in Biochemistry, but today I'm building software that solves real-world problems.
+
+---
+
+# 🌍 Connect with Me
+
+<p align="left">
+
+<a href="mailto:okechukwuorjionuchie@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Daveoski">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/orjionuchiedev">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,python"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,git,github,bash,linux"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+```txt
+✓ Full-Stack Development
+
+✓ Cloud Computing
+
+✓ REST APIs
+
+✓ Software Engineering
+
+✓ Cybersecurity
+
+✓ Open Source
+```
+
+---
+
+# 📂 Featured Projects
+
+### 📚 BookNook Reading Tracker
+
+Node.js • Express • SQL Server • Azure
+
+🔗 https://github.com/Daveoski/Daveoskibooknook5
+
+---
+
+### 🚑 TriRescue
+
+Community Emergency Response Platform
+
+---
+
+### 📦 LogiFlow360
+
+Integrated Digital Logistics System
+
+---
+
+### ⛽ OilOps360
+
+Operations & Asset Management Platform
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daveoski&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daveoski&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Daveoski&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daveoski&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Daveoski&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📄 Resume
+
+📥 **View my Resume**
+
+Replace with your CV link.
+
+---
+
+# 🌐 Portfolio
+
+Coming Soon...
+
+---
+
+# 💬 Quote
+
+> *"Technology becomes meaningful when it is used to solve real problems and improve lives."*
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:06b6d4"/>
+
+</div>
