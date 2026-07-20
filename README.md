@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,100:06b6d4&text=Orjionuchie%20Okechukwu%20David&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Learner;Biochemistry+Graduate;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Analyst;Biochemistry+Graduate;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -199,14 +199,26 @@ Operations & Asset Management Platform
 
 ---
 
+---
+
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg"/>
+<picture>
 
-</p>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake-dark.svg">
 
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution snake animation"
+src="https://raw.githubusercontent.com/Daveoski/Daveoski/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
 ---
 
 # 📄 Resume
