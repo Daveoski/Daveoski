@@ -189,15 +189,11 @@ Operations & Asset Management Platform
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Daveoski&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=18&margin-h=18"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Daveoski&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15" />
+</p>
 
 ---
 
